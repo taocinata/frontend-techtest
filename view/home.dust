@@ -23,7 +23,7 @@
                         {#data.items}
                             <li class="social-media__{.key}">
                                 <a href={.link} title="{.tip}">
-                                    <span class="socila-image-span social-image">
+                                    <span class="social-image-span social-image">
                                         <img src="{@assetPath src="{.key}.svg" /}">
                                     </span>
                                     {.text}

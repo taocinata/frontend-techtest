@@ -1,0 +1,8 @@
+{
+  "name": "shunter-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "shunter": "*"
+  }
+}
